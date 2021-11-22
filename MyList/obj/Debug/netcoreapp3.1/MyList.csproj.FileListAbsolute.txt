@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.exe
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.deps.json
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.json
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\bin\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.dll
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.pdb
+C:\Users\Lenovo\Desktop\difficult1\MyList\MyList\obj\Debug\netcoreapp3.1\MyList.genruntimeconfig.cache
